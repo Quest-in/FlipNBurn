@@ -25,6 +25,7 @@ Changelog:
 V0 - Old Block 3 File, will be updated over with New Block 3 next update.
 V0.5 - Block 3 Model Overhaul, Bunch of Extra Stuff
 V0.6 - Block 3 Fixes, plus early Raptor 3s. (Thank you Andrew for the Plumes!!!)
+V0.61 - Aero Touchup
 
 [DM on discord for any questions!]
 [Also join the Discord for more! https://discord.gg/JfuYbWAxxB]
