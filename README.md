@@ -1,6 +1,6 @@
-### 'Questin's Block 3
+### Flip N' Burn
 
-This mod adds the Block 3 iteration of Superheavy into the game.
+This Mod Adds Block 3 Hardware to KSP, and some Block 1 and 2 soon enough.
 
 
 Dependencies:
