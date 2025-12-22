@@ -46,6 +46,7 @@ Coming Soon...
 FlipN'Burn © 2025 by `Questin (1questin) and Vista 
 
 Models/.Mu/.PNGs are licensed under All Rights Reserved (ARR) [To their respective Owners]
+P.S if you're gonna make a CFG, make it actually good lol. IYKYK
 
 Booster - Questin
 
