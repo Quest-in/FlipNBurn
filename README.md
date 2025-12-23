@@ -37,7 +37,8 @@ V0.8 - Updated V3 (No Ship)
 V0.9 - Add V2/3 Ships and *Maybe V1 Booster :)* (Planned)
 
 
-<img width="3840" height="2160" alt="screenshot242" src="https://github.com/user-attachments/assets/81481aab-a511-4771-9625-6a1f312c5101" />
+<img width="3840" height="2160" alt="screenshot242" src="https://github.com/user-attachments/assets/81481aab-a511-4771-9625-6a1f312c5101" /> <img width="3840" height="2160" alt="screenshot262" src="https://github.com/user-attachments/assets/dba87118-de8a-4028-98a5-d8e92e8a0c9d" />
+
 Coming Soon...
 
 [DM on discord for any questions!]
