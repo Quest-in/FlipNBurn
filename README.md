@@ -11,6 +11,9 @@ Dependencies:
 - Community Part Fixes
 - Community Part Modules
 - Waterfall
+- FuelVent 
+- RealPlume
+- Smokescreen
 - Starship Expansion Project (SEP) [This is NOT a SEP addon! It only needs SEP for a few modules!]
 
 Recommended mods but not required:
