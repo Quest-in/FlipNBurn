@@ -1,6 +1,6 @@
 ### Flip N' Burn
 
-This Mod Adds Block 3 Hardware to KSP, and some Block 1 and 2 soon enough.
+This Mod Adds Block 3 Hardware to KSP, and some Block 1 and 2 soon enough. 
 
 
 Dependencies:
