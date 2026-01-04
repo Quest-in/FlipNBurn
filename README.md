@@ -24,7 +24,9 @@ Beta 0.9 - ~Mid Dev Block 2 Ship Added. Block 3 Ship Redacted for Serious Issues
 
 Beta 0.9.5 - Block 3 Lag Reduction, B4 Grid Fins, and Updated B7+ Grid Fins
 
-Beta 0.91 - [Planned] Small Aero Tweaks, Cluster Plumes, BL0.5 Cluster added back, and Block 3 Grid Fin remodel
+Beta 0.9.6 - At the Beheast of Andrew, BL1 Cluster and BL0 Plumes in Beta. BL0.5 Cluster added back
+
+Beta 0.91 - [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel
 
 Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Updates and Tweaks, Possible Ship Aero Overhaul if Needed
 
