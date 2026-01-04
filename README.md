@@ -22,7 +22,7 @@ Beta 0.86 - Hotfix for BL1 Chines and BL3 Nodes. Misc Tweaks.
 
 Beta 0.9 - ~Mid Dev Block 2 Ship Added. Block 3 Ship Redacted for Serious Issues. Block 1 Tiny Tweaks, Early RO Config (Delayed a tinnnnnnnnyy bit, need to fix a thing), and Realnames.
 
-Beta 0.91 - [Planned] B4 Grid Fins, Updated B7+ Grid Fins, small Aero Tweaks, Cluster Plumes, also BL0.5 Cluster added back 
+Beta 0.91 - [Planned] B4 Grid Fins, Updated B7+ Grid Fins, small Aero Tweaks, Cluster Plumes, BL0.5 Cluster added back, Block 3 Lag Reducrion, and Block 3 Grid Fin remodel
 
 Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Updates and Tweaks, Possible Ship Aero Overhaul if Needed
 
