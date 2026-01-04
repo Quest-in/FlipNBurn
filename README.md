@@ -30,6 +30,8 @@ Beta 0.95 - [Planned] Block 3/4 Ship, Possible Block 3 Overhaul V3, Misc BL1 Upd
 
 Beta 0.96 - [Planned] PEZ + Starlink, Door Operational and Drouges Working on BL3
 
+Version 1.0 - [Planned] Release on SpaceDock and upload to CKAN
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Roadmap - https://trello.com/b/d6p0h0p9/starship-true-reusability-expansion
