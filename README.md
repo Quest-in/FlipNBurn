@@ -28,7 +28,7 @@ Beta 0.9.5 - Block 3 Lag Reduction, B4 Grid Fins, and Updated B7+ Grid Fins
 
 Beta 0.9.6 - At the Beheast of Andrew, BL1 Cluster and BL0 Plumes in Beta. BL0.5 Cluster added back
 
-Beta 0.91 - [Planned] - HLS, Misc BL1 Updates and Tweaks, Dummlink and PEZ + Door Operational
+Beta 0.91 - [Planned] HLS, Misc BL1 Updates and Tweaks, Dummlink and PEZ + Door Operational
 
 Beta 0.92 - [Planned] Small Aero Tweaks, Finished Cluster Plumes, and Block 3 Grid Fin remodel
 
